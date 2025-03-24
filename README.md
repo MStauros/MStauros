@@ -8,7 +8,10 @@ Atualmente, trabalho em projetos de engenharia de dados, envolvendo ETL, cria√ß√
 </br>
 </br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MStauros&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-estatisticas.vercel.app/api?username=MStauros&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+
+
+
 
 
  
@@ -16,5 +19,4 @@ Atualmente, trabalho em projetos de engenharia de dados, envolvendo ETL, cria√ß√
   <a href ="mailto:marcos.vini2727@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcos-santos-cdados/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
 
