@@ -8,7 +8,8 @@ Atualmente, trabalho em projetos de engenharia de dados, envolvendo ETL, cria√ß√
 </br>
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MStauros&theme=dracula)](https://github.com/MStauros/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MStauros&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
  
 <div> 
   <a href ="mailto:marcos.vini2727@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
