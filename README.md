@@ -8,7 +8,7 @@ Atualmente, trabalho em projetos de engenharia de dados, envolvendo ETL, cria√ß√
 </br>
 </br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-MStauros&count_private=true&show_icons=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MStauros&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
  
 <div> 
