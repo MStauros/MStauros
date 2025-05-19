@@ -4,7 +4,7 @@
 
 Sou um engenheiro de dados cursando Bacharelado em Estatística e Ciência de Dados na USP e trabalho como Trainee em Data Science & Analytics na Maitha Tech. Tenho experiências profissionais em Python, SQL, AWS e ETL, e acredito que a engenharia de dados e a ciência de dados são pilares essenciais para construir um futuro mais inteligente e orientado por evidências.
 
-Atualmente, trabalho em projetos de engenharia de dados, envolvendo ETL, criação de Data Lakes e ingestão de dados em ambiente de computação em nuvem. Estou sempre buscando aprender novas tecnologias, como Apache Spark e Airflow, e aprimorar minhas habilidades em big data e análise de dados. Além disso, tenho interesse em compartilhar conhecimento e contribuir para a comunidade de dados.
+Atualmente, trabalho em projetos de engenharia de dados, envolvendo ETL, criação de Data Lakes e ingestão de dados em ambiente de computação em nuvem. Estou sempre buscando aprender novas tecnologias, e aprimorar minhas habilidades em big data e análise de dados. Além disso, tenho interesse em compartilhar conhecimento e contribuir para a comunidade de dados.
 </br>
 </br>
 
